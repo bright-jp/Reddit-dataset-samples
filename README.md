@@ -1,52 +1,51 @@
 # Reddit-dataset-samples
 
-<h2>A sample dataset of 1001 Reddit posts</h2>
+<h2>1001件のReddit投稿のサンプルデータセット</h2>
 
 ![Reddit posts dataset header](https://github.com/luminati-io/Reddit-dataset-samples/blob/main/Reddit-datasets.png)
 
-A Reddit dataset sample of over 1000 records. Dataset was extracted using the <b>Bright Data API</b>.
+1000件を超えるレコードを含むRedditデータセットのサンプルです。データセットは<b>Bright Data API</b>を使用して抽出されました。
 
-<h2>Some of the data points that are included in the Reddit dataset:</h2>
+<h2>Redditデータセットに含まれるデータポイントの一部：</h2>
 
-* ```post_id```: Post ID
-* ```url```: URL of the post
-* ```user_posted```: Username of the post creator
-* ```title```: Title of the post
-* ```description```: Post text description
-* ```num_comments```: Number of comments
-* ```date_posted```: Post publication date
-* ```community_name```: Name of the community
-* ```num_upvotes```: Number of upvotes
-* ```photos```: URLs of attached photos
-* ```videos```: URLs of attached videos
-* ```tag```: The name of the tag
+* ```post_id```: 投稿ID
+* ```url```: 投稿のURL
+* ```user_posted```: 投稿作成者のユーザー名
+* ```title```: 投稿タイトル
+* ```description```: 投稿のテキスト説明
+* ```num_comments```: コメント数
+* ```date_posted```: 投稿公開日
+* ```community_name```: コミュニティ名
+* ```num_upvotes```: アップボート数
+* ```photos```: 添付写真のURL
+* ```videos```: 添付動画のURL
+* ```tag```: タグ名
 
-And a lot more.
+ほかにも多数あります。
 
-This is a sample subset which is derived from the "Reddit posts"
-dataset which includes more than <b>404K records</b>.
+これは「Reddit posts」データセットから派生したサンプルサブセットであり、当該データセットには<b>404K件を超えるレコード</b>が含まれています。
 
-Available dataset file formats: <b>JSON, NDJSON, JSON Lines, CSV, or Parquet. Optionally, files can be compressed to .gz</b>.
+利用可能なデータセットのファイル形式：<b>JSON, NDJSON, JSON Lines, CSV, または Parquet。必要に応じて、ファイルは .gz に圧縮できます</b>。
 
-Dataset delivery type options: <b>Email, API download, Webhook, Amazon S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>.
+データセット配信タイプのオプション：<b>Email, API download, Webhook, Amazon S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>。
 
-Update frequency: <b>Once, Daily, Weekly, Monthly, Quarterly, or Custom basis</b>.
+更新頻度：<b>1回のみ、毎日、毎週、毎月、四半期ごと、またはカスタム</b>。
 
-Data enrichment available as an addition to the data points extracted: <b>Based on request.</b>
+抽出されたデータポイントに追加できるデータエンリッチメント：<b>リクエストに基づきます。</b>
 
-<b>[Get the full Reddit dataset](https://brightdata.com/products/datasets/reddit)</b>.
+<b>[Redditのフルデータセットを入手する](https://brightdata.jp/products/datasets/reddit)</b>。
 
-<h2>What are the Reddit datasets use cases?</h2>
+<h2>Redditデータセットのユースケースは何ですか？</h2>
 
-<h3>1. Sentiment Analysis</h3>
-Monitor consumer sentiment by analyzing online conversations on Reddit to track brand reputation and respond to customer feedback.
+<h3>1. センチメント分析</h3>
+Reddit上のオンライン会話を分析して消費者の感情をモニタリングし、ブランドの評判を追跡し、顧客フィードバックに対応します。
 
-<h3>2. Trend Identification</h3>
-Identify industry-related trends and topics on Reddit to inform marketing content and campaign development.
+<h3>2. トレンドの特定</h3>
+Reddit上の業界関連トレンドやトピックを特定し、マーケティングコンテンツやキャンペーン開発に活用します。
 
-<h3>3. Competitor Analysis</h3>
-Enhance competitive intelligence by analyzing the Reddit activity of similar brands to uncover opportunities for improvement.
+<h3>3. 競合分析</h3>
+類似ブランドのReddit上での活動を分析して競合インテリジェンスを強化し、改善の機会を見つけます。
 
-<h2>Free access to web scraping tools and datasets for academic researchers and NGOs</h2>
+<h2>学術研究者およびNGO向けのWebスクレイピングツールとデータセットへの無料アクセス</h2>
 
-The Bright Initiative offers access to Bright Data's <b>[Web Scraper APIs](https://brightdata.com/products/web-scraper)</b> and <b>[ready-to-use datasets](https://brightdata.com/products/datasets)</b> to leading academic faculties and researchers, NGOs and NPOs promoting various environmental and social causes. You can submit an application <b>[here](https://brightinitiative.com)</b>.
+Bright Initiativeは、さまざまな環境・社会的課題を推進する主要な学術機関の学部・研究者、NGOおよびNPOに対し、Bright Dataの<b>[Web Scraper APIs](https://brightdata.jp/products/web-scraper)</b>および<b>[すぐに利用できるデータセット](https://brightdata.jp/products/datasets)</b>へのアクセスを提供しています。申請は<b>[こちら](https://brightinitiative.com)</b>から送信できます。
