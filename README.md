@@ -2,7 +2,7 @@
 
 <h2>1001件のReddit投稿のサンプルデータセット</h2>
 
-![Reddit posts dataset header](https://github.com/luminati-io/Reddit-dataset-samples/blob/main/Reddit-datasets.png)
+![Reddit posts dataset header](https://github.com/bright-jp/Reddit-dataset-samples/blob/main/Reddit-datasets.png)
 
 1000件を超えるレコードを含むRedditデータセットのサンプルです。データセットは<b>Bright Data API</b>を使用して抽出されました。
 
