@@ -1,4 +1,4 @@
-# Reddit-dataset-samples
+# Reddit データセットサンプル
 
 <h2>1001件のReddit投稿のサンプルデータセット</h2>
 
